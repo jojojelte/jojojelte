@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web/Bot Development
 - 🌱 I’m currently learning more JavaScript!
 - ❓ I’m currently not working on any projects since I'm improving my coding skills
-- 📫 You can reach me via discord! [ jojojelte#0002 ]
+- 📫 You can reach me via discord | jojojelte#0002
