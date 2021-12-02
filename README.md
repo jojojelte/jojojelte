@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Jelte, but I'm better known as Jojo
-- 👀 I’m interested in Web/Bot development
-- 🌱 I’m currently expanding my front-end development knowledge
-- ❓ At the time I'm working on KingCraft
+- 👀 I’m interested in Html / Css / Js & Java!
+- 🌱 I’m currently expanding my front-end & Java development knowledge
+- ❓ At the time I'm working on KingCraft & StaffChat
 - 📫 You can reach me via discord » jojojelte#0002
