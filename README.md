@@ -1,5 +1,8 @@
-- 👋 Hi, My name is Jelte, but I'm better known as Jojo
-- 👀 I’m interested in Html / Css / Js & Java!
-- 🌱 I’m currently expanding my front-end & Java development knowledge
-- ❓ At the time I'm working on KingCraft & StaffChat
-- 📫 You can reach me via discord » jojojelte#0002
+- 👋 Hi, My name is Jelte, also known as jojo!
+- 👀 I’m interested in Html / css / js & Java!
+- 🌱 I'm learning more front-end development and minecraft plugin development!
+- ❓ I'm currently working on KingCraft & StaffChat
+- 📫 Any inquiries? Reach me via discord! » jojojelte#0002
+
+
+Take a look around my profile to discover more of my work!
